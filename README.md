@@ -1,2 +1,2 @@
 # Snippets
-Various utility scripts or useful snippets
+Various utility scripts, homework assignments from college years, and useful snippets.
